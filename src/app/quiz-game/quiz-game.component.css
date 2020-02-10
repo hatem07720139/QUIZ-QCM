@@ -1,0 +1,19 @@
+table {
+    border: 1px solid black;
+    width: 100px;
+}
+
+td {
+    border: 1px solid black;
+    width: 33%;
+    height: 33%;
+    text-align: center;
+}
+
+.mx-s {
+    margin-left: 130px;
+}
+
+.mx-sa {
+    margin-left: 80px;
+}
